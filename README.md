@@ -113,8 +113,6 @@ The platform transforms raw visual data into actionable insights through intelli
 
 ## 🏠 Dashboard
 
-> Add Dashboard Screenshot Here
-
 ```md
 <img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/445cd4f8-718b-473e-8152-00fa3aeacdfa" />
 
@@ -123,46 +121,33 @@ The platform transforms raw visual data into actionable insights through intelli
 ---
 
 ## 🎯 Real-Time Object Detection
+## 🎯 Real-Time Object Detection
 
-> Add Detection Screenshot Here
+## 🎯 Real-Time Object Detection
 
-```md
-<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/09584827-8151-496d-9e21-9c089c504b0d" />
-
-```
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/09584827-8151-496d-9e21-9c089c504b0d" />
 
 ---
 
 ## 📊 Analytics Dashboard, Charts
-
-> Add Analytics Screenshot Here
-
-```md
 <img width="1601" height="893" alt="image" src="https://github.com/user-attachments/assets/16626074-8f16-477a-9dc6-30edc1305dcf" />
-
-```
 
 ---
 
 ## 📹 Video Processing Module
 
-> Add Video Analysis Screenshot Here
-
-```md
 <img width="1608" height="792" alt="image" src="https://github.com/user-attachments/assets/3d8472be-4cc5-4374-b7a0-0b3cdaa4489c" />
 
-```
+
 
 ---
 
 ## 🚦 Alert System
 
-> Add Alert System Screenshot Here
 
-```md
 <img width="1612" height="733" alt="image" src="https://github.com/user-attachments/assets/c14e9ff6-2ee9-4a23-8998-e1f8dc6efbc9" />
 
-```
+
 
 ---
 
