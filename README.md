@@ -113,15 +113,11 @@ The platform transforms raw visual data into actionable insights through intelli
 
 ## 🏠 Dashboard
 
-```md
 <img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/445cd4f8-718b-473e-8152-00fa3aeacdfa" />
 
-```
+
 
 ---
-
-## 🎯 Real-Time Object Detection
-## 🎯 Real-Time Object Detection
 
 ## 🎯 Real-Time Object Detection
 
