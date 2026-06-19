@@ -116,7 +116,8 @@ The platform transforms raw visual data into actionable insights through intelli
 > Add Dashboard Screenshot Here
 
 ```md
-![Dashboard](screenshots/dashboard.png)
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/445cd4f8-718b-473e-8152-00fa3aeacdfa" />
+
 ```
 
 ---
@@ -126,17 +127,19 @@ The platform transforms raw visual data into actionable insights through intelli
 > Add Detection Screenshot Here
 
 ```md
-![Detection](screenshots/detection.png)
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/09584827-8151-496d-9e21-9c089c504b0d" />
+
 ```
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 Analytics Dashboard, Charts
 
 > Add Analytics Screenshot Here
 
 ```md
-![Analytics](screenshots/analytics.png)
+<img width="1601" height="893" alt="image" src="https://github.com/user-attachments/assets/16626074-8f16-477a-9dc6-30edc1305dcf" />
+
 ```
 
 ---
@@ -146,17 +149,19 @@ The platform transforms raw visual data into actionable insights through intelli
 > Add Video Analysis Screenshot Here
 
 ```md
-![Video Analysis](screenshots/video-analysis.png)
+<img width="1608" height="792" alt="image" src="https://github.com/user-attachments/assets/3d8472be-4cc5-4374-b7a0-0b3cdaa4489c" />
+
 ```
 
 ---
 
-## 🚦 Traffic Monitoring Results
+## 🚦 Alert System
 
-> Add Traffic Monitoring Screenshot Here
+> Add Alert System Screenshot Here
 
 ```md
-![Traffic Monitoring](screenshots/traffic-monitoring.png)
+<img width="1612" height="733" alt="image" src="https://github.com/user-attachments/assets/c14e9ff6-2ee9-4a23-8998-e1f8dc6efbc9" />
+
 ```
 
 ---
